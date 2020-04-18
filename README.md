@@ -1,4 +1,4 @@
 # Chromosome
 Please find the chromosome visualization here:
 
-<mattwarren97.github.io>
+http://mattwarren97.github.io
