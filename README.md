@@ -1,2 +1,4 @@
 # Chromosome
-Permanent link to Chromosome viz
+Please find the chromosome visualization here:
+
+mattwarren97.github.io
